@@ -33,8 +33,8 @@
   
 <p>  多種口味   真材實料  </p><p>
   <ul>
-    <li><a href="https://www.mvp-icecream.com.tw/index.php?ac=MenuShow1">官方網站</a><li>
-  </ul>
+    <li><a href="https://www.mvp-icecream.com.tw/index.php?ac=MenuShow1">官方網站</a></li>
+  </ul><p>
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UTCIla-84hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
 
