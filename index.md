@@ -1,4 +1,5 @@
 <html>
+<head>
   <style>
     .red-text {
       color:#f5000d;
@@ -13,7 +14,7 @@
       color:#0009ff;
     }
     </style>
- 
+</head>
 <h1>甜點推薦</h1><p>
  
 <h2 class="orange-text">  輔大心園   鬆餅  </h2><p>
