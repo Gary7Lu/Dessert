@@ -1,10 +1,13 @@
 <html>
-<h3>甜點推薦</h3>
+<h1>甜點推薦</h1><p>
  
- <!--aa-->
-<h2>  輔大心園   鬆餅  </h2>
-<p>  口味繁多  經濟實惠  </p>
-<img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="https://cdn2.ettoday.net/images/3406/d3406781.jpg" >
+<h2>  輔大心園   鬆餅  </h2><p>
+
+<h3>  口味繁多  經濟實惠  </h3><p>
+<h4><a href="https://www.facebook.com/CIAO.WEI.waffle/">粉絲專頁</a></h4><p>
+
+<img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="https://cdn2.ettoday.net/images/3406/d3406781.jpg" ><p>
+
 <p>圖片來源 : <a href="https://www.ettoday.net/news/20180712/1209708.htm">ETtoday</a></p>
 
 <h2>  莫凡彼 冰淇淋  </h2>
