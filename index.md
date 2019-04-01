@@ -52,6 +52,7 @@ $(document).ready(function(){
 
 <button id="hide"> hide </button>
 <button id="hide"> show </button>
+<p>好吃的鬆餅</p>
 
 <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="https://cdn2.ettoday.net/images/3406/d3406781.jpg" ><p>
 
