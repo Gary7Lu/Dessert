@@ -35,7 +35,8 @@
     <ul>
         <li><a href="https://www.facebook.com/CIAO.WEI.waffle/">粉絲專頁</a></li>
     </ul>
-<p>    
+    
+<center>    
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
@@ -55,6 +56,7 @@ $(document).ready(function(){
 <p>好吃的鬆餅</p>
 
 <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="https://cdn2.ettoday.net/images/3406/d3406781.jpg" ><p>
+
 
 <p>圖片來源 : <a href="https://www.ettoday.net/news/20180712/1209708.htm">ETtoday</a></p>
 
