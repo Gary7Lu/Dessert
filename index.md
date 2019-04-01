@@ -35,7 +35,7 @@
     <ul>
         <li><a href="https://www.facebook.com/CIAO.WEI.waffle/">粉絲專頁</a></li>
     </ul>
-<>    
+<p>    
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
