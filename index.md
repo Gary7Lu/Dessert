@@ -54,7 +54,7 @@ $(document).ready(function(){
 <button id="hide"> show </button>
 
 <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="https://cdn2.ettoday.net/images/3406/d3406781.jpg" ><p>
-</div>
+
 <p>圖片來源 : <a href="https://www.ettoday.net/news/20180712/1209708.htm">ETtoday</a></p>
 
 
