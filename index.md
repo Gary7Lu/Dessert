@@ -37,22 +37,21 @@
     </ul>
     
 <div>    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>        
+		<script>
+			$(document).ready(function() {
+				$("button").css("color","black");
+				$("button").click(function(){
+					alert("不給隱藏");
+				});
+			});
+		</script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<button style="color: black;">Lab4</button>
 
-<script>
-$(document).ready(function(){
-   $("#hide").click(function(){
-    $("div").hide();
-  });
-  $("#show").click(function(){
-    $("div").show();
-  });
-});
-</script>
 
 <button id="hide"> hide </button>
-<button id="hide"> show </button>
+
 <p>好吃的鬆餅</p>
 
 <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="https://cdn2.ettoday.net/images/3406/d3406781.jpg" >
