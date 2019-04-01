@@ -47,7 +47,7 @@
 			});
 		</script>
 
-<button style="color: green;">hide</button>
+<button>hide</button>
 
 
 <p>好吃的鬆餅</p>
