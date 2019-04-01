@@ -42,7 +42,7 @@
 		$(document).ready(function() {
 			$("button").css("color","red");
 			$("button").click(function(){
-				alert("sorry! 好吃的鬆餅不給隱藏");
+				alert("sorry! 好吃的鬆餅不能隱藏!");
 			});
 		});
 	</script>
