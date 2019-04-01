@@ -38,17 +38,16 @@
     
 <div>    
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>  
-	
-		<script>
-			$(document).ready(function() {
-				$("button").css("color","red");
-				$("button").click(function(){
-					alert("sorry! 好吃的鬆餅不給隱藏");
-				});
+	<script>
+		$(document).ready(function() {
+			$("button").css("color","red");
+			$("button").click(function(){
+				alert("sorry! 好吃的鬆餅不給隱藏");
 			});
-		</script>
+		});
+	</script>
 
-<button style="color: green;">hide</button>
+<button style="color: green;">HIDE ?</button>
 
 
 <p>好吃的鬆餅</p>
