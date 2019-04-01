@@ -42,12 +42,12 @@
 			$(document).ready(function() {
 				$("button").css("color","black");
 				$("button").click(function(){
-					alert("不給隱藏");
+					alert("sorry! 不給隱藏");
 				});
 			});
 		</script>
 
-<button style="color: black;">Lab4</button>
+<button style="color: black;">hide</button>
 
 
 <button id="hide"> hide </button>
