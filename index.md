@@ -40,14 +40,14 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>        
 		<script>
 			$(document).ready(function() {
-				$("button").css("color","black");
+				$("button").css("color","blue");
 				$("button").click(function(){
 					alert("sorry! 不給隱藏");
 				});
 			});
 		</script>
 
-<button style="color: black;">hide</button>
+<button style="color: green;">hide</button>
 
 
 <p>好吃的鬆餅</p>
